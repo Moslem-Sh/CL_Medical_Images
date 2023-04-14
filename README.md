@@ -35,7 +35,7 @@ python train_test.py \
 
 ---------
 
-The directory tree structure for the Dataset folder should be like this (containing images):
+The directory tree structure for the "Dataset" folder should be like this (containing images):
 
 
 ├── PICAI
